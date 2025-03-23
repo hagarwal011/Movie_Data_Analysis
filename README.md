@@ -47,11 +47,13 @@ This project aims to analyze movie data using visualization techniques. The goal
 
 ## How to Use 🚀
 **1. Sentiment Analysis Model**
+
 ▶️ Run Exploratory_Data_Analysis.ipynb in Jupyter Notebook to preprocess data and perform analysis.
 
 ▶️ Analyze sentiment classification and generate insights.
 
 **2. Power BI Dashboard**
+
 ▶️ Open Movie_Data_Analysis.pbix in Power BI.
 
 ▶️ Explore different KPIs and filter data as needed.
